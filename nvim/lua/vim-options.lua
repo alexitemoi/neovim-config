@@ -5,5 +5,5 @@ vim.cmd("set shiftwidth=2")
 vim.g.mapleader= " "
 vim.opt.number = true
 vim.opt.relativenumber = true
-vim.opt.colorcolumn = "80"
+vim.opt.colorcolumn = "80,100,120"
 
